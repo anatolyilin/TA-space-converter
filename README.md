@@ -1,5 +1,7 @@
 # TA-space-converter
 
+Littered with security holes, not intended for production or general use. 
+
 removes spaces in files within TA course modules. 
 
 To build:
